@@ -1,0 +1,13 @@
+{
+  "name": "قرايتي | 9rayti",
+  "short_name": "قرايتي",
+  "description": "المكتبة التعليمية التونسية من السنة الثالثة ابتدائي إلى التاسعة أساسي",
+  "lang": "ar-TN",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffefa",
+  "theme_color": "#173b32",
+  "icons": [{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
